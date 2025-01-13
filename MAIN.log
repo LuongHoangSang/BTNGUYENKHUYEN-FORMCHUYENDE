@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.6)  18 NOV 2024 15:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.6)  14 DEC 2024 09:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2371,115 +2371,91 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- (./data17/BTMASAT.tex
-ChÆ°Æ¡ng 4.
-LaTeX Font Info:    Trying to load font information for T5+qag on input line 1.
+ (./data17/soande.tex
+LaTeX Font Info:    Trying to load font information for T5+pag on input line 3.
 
-(c:/texlive/2024/texmf-dist/tex/latex/tex-gyre/t5qag.fd
-File: t5qag.fd 2009/09/25 v1.2 font definition file for T5/qag
+
+(c:/texlive/2024/texmf-dist/tex/latex/vntex/t5pag.fd
+File: t5uag.fd 2005/08/24 Fontinst v1.929 font definitions for T5/pag.
 )
-LaTeX Font Info:    Calculating math sizes for size <16> on input line 1.
+LaTeX Font Info:    Font shape `T5/pag/bx/n' in size <12> not available
+(Font)              Font shape `T5/pag/b/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `T5/pag/b/n' in size <12> not available
+(Font)              Font shape `T5/pag/db/n' tried instead on input line 3.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
 
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 1.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <16> not available
-(Font)              size <17.28> substituted on input line 1.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 1.
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 1.
 (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 1.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
 
 (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 1.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 3.
 
 
 (c:/texlive/2024/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-
-LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 1.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 1.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <16> not available
-(Font)              size <17.28> substituted on input line 1.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 1.
-
 LaTeX Font Info:    Trying to load font information for OMX+yhex on input line 
-1.
+3.
+
 (c:/texlive/2024/texmf-dist/tex/latex/yhmath/OMXyhex.fd
 File: OMXyhex.fd 
 File: OMXyhex.fd 2013/07/03 v1.1 YH's humble contribution to TeX maths (NP)
 )
 LaTeX Font Info:    Trying to load font information for U+esvect on input line 
-1.
+3.
 
 (c:/texlive/2024/texmf-dist/tex/latex/esvect/uesvect.fd
 File: uesvect.fd 
 )
-
-LaTeX Font Warning: Font shape `U/esvect/m/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 1.
-
-LaTeX Font Info:    Trying to load font information for U+txsyc on input line 1
+LaTeX Font Info:    Trying to load font information for U+txsyc on input line 3
 .
+
 (c:/texlive/2024/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
-contour: Using real outline for `10' on input line 1.
-<logo/logocut.png, id=47, 256.96pt x 197.73875pt>
-File: logo/logocut.png Graphic file (type png)
-<use logo/logocut.png>
-Package pdftex.def Info: logo/logocut.png  used on input line 1.
-(pdftex.def)             Requested size: 56.98756pt x 43.85265pt.
-LaTeX Font Info:    Trying to load font information for T5+put on input line 1.
+Package hyperref Info: bookmark level for unknown ex defaults to 0 on input lin
+e 3.
+<figs/BTMASAT-6.jpg, id=43, 245.91875pt x 328.72812pt>
+File: figs/BTMASAT-6.jpg Graphic file (type jpg)
+<use figs/BTMASAT-6.jpg>
+Package pdftex.def Info: figs/BTMASAT-6.jpg  used on input line 9.
+(pdftex.def)             Requested size: 98.36575pt x 131.4889pt.
+File: figs/BTMASAT-6.jpg Graphic file (type jpg)
+<use figs/BTMASAT-6.jpg>
+Package pdftex.def Info: figs/BTMASAT-6.jpg  used on input line 9.
+(pdftex.def)             Requested size: 98.36575pt x 131.4889pt.
+LaTeX Font Info:    Trying to load font information for U+fontawesomeone on inp
+ut line 16.
 
-(c:/texlive/2024/texmf-dist/tex/latex/vntex/t5put.fd
-File: t5put.fd 2006/07/30 Fontinst v1.927 font definitions for T5/put.
-)
-LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
-ut line 24.
-
-(c:/texlive/2024/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
-File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
-)
-LaTeX Font Info:    Trying to load font information for U+fontawesomethree on i
-nput line 27.
-
-(c:/texlive/2024/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd
-File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
+(c:/texlive/2024/texmf-dist/tex/latex/fontawesome/ufontawesomeone.fd
+File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
 )
 
-LaTeX Font Warning: Font shape `U/fontawesomethree/bx/n' undefined
-(Font)              using `U/fontawesomethree/m/n' instead on input line 27.
+LaTeX Font Warning: Font shape `U/fontawesomeone/bx/n' undefined
+(Font)              using `U/fontawesomeone/m/n' instead on input line 16.
 
+<figs/D10-HKI-KTTX2-001-5.jpg, id=44, 490.4724pt x 427.8384pt>
+File: figs/D10-HKI-KTTX2-001-5.jpg Graphic file (type jpg)
+<use figs/D10-HKI-KTTX2-001-5.jpg>
+Package pdftex.def Info: figs/D10-HKI-KTTX2-001-5.jpg  used on input line 24.
+(pdftex.def)             Requested size: 147.14285pt x 128.3525pt.
+File: figs/D10-HKI-KTTX2-001-5.jpg Graphic file (type jpg)
+<use figs/D10-HKI-KTTX2-001-5.jpg>
+Package pdftex.def Info: figs/D10-HKI-KTTX2-001-5.jpg  used on input line 24.
+(pdftex.def)             Requested size: 147.14285pt x 128.3525pt.
+)
+\tf@thm=\write8
+\openout8 = `MAIN.thm'.
 
-Overfull \hbox (5.69046pt too wide) in paragraph at lines 31--31
- []| $[]$[] 
- []
-
-
-Underfull \vbox (badness 1248) has occurred while \output is active []
-
-
+LaTeX Font Info:    Trying to load font information for T5+qag on input line 98
+.
+ (c:/texlive/2024/texmf-dist/tex/latex/tex-gyre/t5qag.fd
+File: t5qag.fd 2009/09/25 v1.2 font definition file for T5/qag
+)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2488,11 +2464,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
+<logo/logocut.png, id=47, 256.96pt x 197.73875pt>
 File: logo/logocut.png Graphic file (type png)
 <use logo/logocut.png>
-Package pdftex.def Info: logo/logocut.png  used on input line 63.
+Package pdftex.def Info: logo/logocut.png  used on input line 98.
 (pdftex.def)             Requested size: 42.67912pt x 32.84273pt.
-
+LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
+ut line 98.
+(c:/texlive/2024/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
+File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
+)
 Underfull \hbox (badness 10000) has occurred while \output is active
  [][][][]\T5/qag/m/n/10 GV: L÷ìng Ho ng Sang[][]
  []
@@ -2501,231 +2482,10 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 
 
-
 {c:/texlive/2024/texmf-dist/fonts/enc/dvips/vntex/t5.enc}{c:/texlive/2024/texmf
--dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{c:/texlive/2024/texmf-dis
-t/fonts/enc/dvips/fontawesome/fontawesomethree.enc} <./logo/logocut.png>]
-<figs/BTMASAT-1.jpg, id=84, 255.8358pt x 192.72pt>
-File: figs/BTMASAT-1.jpg Graphic file (type jpg)
-<use figs/BTMASAT-1.jpg>
-Package pdftex.def Info: figs/BTMASAT-1.jpg  used on input line 65.
-(pdftex.def)             Requested size: 102.3325pt x 77.08662pt.
-File: figs/BTMASAT-1.jpg Graphic file (type jpg)
-<use figs/BTMASAT-1.jpg>
-Package pdftex.def Info: figs/BTMASAT-1.jpg  used on input line 65.
-(pdftex.def)             Requested size: 102.3325pt x 77.08662pt.
-
-Overfull \hbox (5.69046pt too wide) in paragraph at lines 77--77
- []| $[]$[] 
- []
-
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-
-Overfull \hbox (5.99991pt too wide) in paragraph at lines 100--101
- []|[]| 
- []
-
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-
-Overfull \hbox (23.16202pt too wide) in paragraph at lines 138--143
- [] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-File: logo/logocut.png Graphic file (type png)
-<use logo/logocut.png>
-Package pdftex.def Info: logo/logocut.png  used on input line 146.
-(pdftex.def)             Requested size: 42.67912pt x 32.84273pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- [][][][]\T5/qag/m/n/10 GV: L÷ìng Ho ng Sang[][]
- []
-
-[2 <./figs/BTMASAT-1.jpg>]
-<figs/BTMASAT-2.jpg, id=96, 321.2pt x 164.11313pt>
-File: figs/BTMASAT-2.jpg Graphic file (type jpg)
-<use figs/BTMASAT-2.jpg>
-Package pdftex.def Info: figs/BTMASAT-2.jpg  used on input line 151.
-(pdftex.def)             Requested size: 192.72148pt x 98.46863pt.
-<figs/BTMASAT-3.jpg, id=97, 326.72063pt x 189.70876pt>
-File: figs/BTMASAT-3.jpg Graphic file (type jpg)
-<use figs/BTMASAT-3.jpg>
-Package pdftex.def Info: figs/BTMASAT-3.jpg  used on input line 151.
-(pdftex.def)             Requested size: 196.03387pt x 113.82613pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--157
-
- []
-
-\g__tikzsymbols_savebox_F_0 g 0 G_20.74_Laughey_1_none_none_box=\box256
-<figs/BTMASAT-4.jpg, id=98, 214.30063pt x 214.30063pt>
-File: figs/BTMASAT-4.jpg Graphic file (type jpg)
-<use figs/BTMASAT-4.jpg>
-Package pdftex.def Info: figs/BTMASAT-4.jpg  used on input line 170.
-(pdftex.def)             Requested size: 107.15004pt x 107.15004pt.
-File: figs/BTMASAT-4.jpg Graphic file (type jpg)
-<use figs/BTMASAT-4.jpg>
-Package pdftex.def Info: figs/BTMASAT-4.jpg  used on input line 170.
-(pdftex.def)             Requested size: 107.15004pt x 107.15004pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-File: logo/logocut.png Graphic file (type png)
-<use logo/logocut.png>
-Package pdftex.def Info: logo/logocut.png  used on input line 172.
-(pdftex.def)             Requested size: 42.67912pt x 32.84273pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- [][][][]\T5/qag/m/n/10 GV: L÷ìng Ho ng Sang[][]
- []
-
-[3 <./figs/BTMASAT-2.jpg> <./figs/BTMASAT-3.jpg>]
-Overfull \hbox (5.69046pt too wide) in paragraph at lines 173--173
- []| $[]$[] 
- []
-
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-<figs/BTMASAT-5.jpg, id=108, 366.36874pt x 256.45813pt>
-File: figs/BTMASAT-5.jpg Graphic file (type jpg)
-<use figs/BTMASAT-5.jpg>
-Package pdftex.def Info: figs/BTMASAT-5.jpg  used on input line 290.
-(pdftex.def)             Requested size: 146.54489pt x 102.58142pt.
-File: figs/BTMASAT-5.jpg Graphic file (type jpg)
-<use figs/BTMASAT-5.jpg>
-Package pdftex.def Info: figs/BTMASAT-5.jpg  used on input line 290.
-(pdftex.def)             Requested size: 146.54489pt x 102.58142pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-File: logo/logocut.png Graphic file (type png)
-<use logo/logocut.png>
-Package pdftex.def Info: logo/logocut.png  used on input line 292.
-(pdftex.def)             Requested size: 42.67912pt x 32.84273pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- [][][][]\T5/qag/m/n/10 GV: L÷ìng Ho ng Sang[][]
- []
-
-[4 <./figs/BTMASAT-4.jpg>]
-Overfull \hbox (5.69046pt too wide) in paragraph at lines 299--299
- []| $[]$[] 
- []
-
-<figs/BTMASAT-6.jpg, id=120, 245.91875pt x 328.72812pt>
-File: figs/BTMASAT-6.jpg Graphic file (type jpg)
-<use figs/BTMASAT-6.jpg>
-Package pdftex.def Info: figs/BTMASAT-6.jpg  used on input line 318.
-(pdftex.def)             Requested size: 98.36575pt x 131.4889pt.
-File: figs/BTMASAT-6.jpg Graphic file (type jpg)
-<use figs/BTMASAT-6.jpg>
-Package pdftex.def Info: figs/BTMASAT-6.jpg  used on input line 318.
-(pdftex.def)             Requested size: 98.36575pt x 131.4889pt.
-
-Overfull \hbox (5.69046pt too wide) in paragraph at lines 321--321
- []| $[]$[] 
- []
-
-
-Underfull \vbox (badness 7888) has occurred while \output is active []
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-File: logo/logocut.png Graphic file (type png)
-<use logo/logocut.png>
-Package pdftex.def Info: logo/logocut.png  used on input line 331.
-(pdftex.def)             Requested size: 42.67912pt x 32.84273pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- [][][][]\T5/qag/m/n/10 GV: L÷ìng Ho ng Sang[][]
- []
-
-[5 <./figs/BTMASAT-5.jpg> <./figs/BTMASAT-6.jpg>]
-<figs/BTMASAT-8.jpg, id=132, 442.2924pt x 132.9768pt>
-File: figs/BTMASAT-8.jpg Graphic file (type jpg)
-<use figs/BTMASAT-8.jpg>
-Package pdftex.def Info: figs/BTMASAT-8.jpg  used on input line 334.
-(pdftex.def)             Requested size: 265.37749pt x 79.78668pt.
-File: figs/BTMASAT-8.jpg Graphic file (type jpg)
-<use figs/BTMASAT-8.jpg>
-Package pdftex.def Info: figs/BTMASAT-8.jpg  used on input line 334.
-(pdftex.def)             Requested size: 265.37749pt x 79.78668pt.
-<figs/BTMASAT-7.jpg, id=133, 91.84312pt x 87.32625pt>
-File: figs/BTMASAT-7.jpg Graphic file (type jpg)
-<use figs/BTMASAT-7.jpg>
-Package pdftex.def Info: figs/BTMASAT-7.jpg  used on input line 341.
-(pdftex.def)             Requested size: 64.28973pt x 61.12794pt.
-File: figs/BTMASAT-7.jpg Graphic file (type jpg)
-<use figs/BTMASAT-7.jpg>
-Package pdftex.def Info: figs/BTMASAT-7.jpg  used on input line 341.
-(pdftex.def)             Requested size: 64.28973pt x 61.12794pt.
-)
-\tf@thm=\write8
-\openout8 = `MAIN.thm'.
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-File: logo/logocut.png Graphic file (type png)
-<use logo/logocut.png>
-Package pdftex.def Info: logo/logocut.png  used on input line 97.
-(pdftex.def)             Requested size: 42.67912pt x 32.84273pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- [][][][]\T5/qag/m/n/10 GV: L÷ìng Ho ng Sang[][]
- []
-
-[6 <./figs/BTMASAT-8.jpg> <./figs/BTMASAT-7.jpg>]
+-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{c:/texlive/2024/texmf-dis
+t/fonts/enc/dvips/fontawesome/fontawesometwo.enc} <./figs/BTMASAT-6.jpg> <./fig
+s/D10-HKI-KTTX2-001-5.jpg> <./logo/logocut.png>]
 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./MAIN.aux)
@@ -2735,42 +2495,34 @@ L3 programming layer <2020/03/25>
  ***********
 
 
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 1.28pt have occurred.
-
-
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `MAIN.out' has not changed.
-(rerunfilecheck)             Checksum: 6FB82BC6AC7DEE13200D59CEA4F77484;337.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 62660 strings out of 474116
- 1446762 string characters out of 5747718
- 2236151 words of memory out of 5000000
- 83758 multiletter control sequences out of 15000+600000
- 624652 words of font info for 160 fonts, out of 8000000 for 9000
+ 61984 strings out of 474116
+ 1434575 string characters out of 5747718
+ 2186244 words of memory out of 5000000
+ 83119 multiletter control sequences out of 15000+600000
+ 586413 words of font info for 90 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 107i,31n,129p,1218b,1652s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 107i,18n,110p,1218b,1128s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c
-:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive
-/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2024/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2024/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/c
-msy8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vntopia/putb8v.pfb><c:/t
-exlive/2024/texmf-dist/fonts/type1/public/tex-gyre/qagb.pfb><c:/texlive/2024/te
-xmf-dist/fonts/type1/public/tex-gyre/qagr.pfb><c:/texlive/2024/texmf-dist/fonts
-/type1/vntex/grotesqvn/ugqb8v.pfb><c:/texlive/2024/texmf-dist/fonts/type1/publi
-c/esvect/vect10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnbx12.pf
-b><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnr12.pfb><c:/texlive/2024/
-texmf-dist/fonts/type1/vntex/vnr/vnr8.pfb><c:/texlive/2024/texmf-dist/fonts/typ
-e1/vntex/vnr/vnti12.pfb>
-Output written on MAIN.pdf (6 pages, 481265 bytes).
+:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive
+/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2024/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmsy8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/tex-gyre/qagb.
+pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/tex-gyre/qagr.pfb><c:/texliv
+e/2024/texmf-dist/fonts/type1/vntex/grotesqvn/ugqb8v.pfb><c:/texlive/2024/texmf
+-dist/fonts/type1/public/esvect/vect10.pfb><c:/texlive/2024/texmf-dist/fonts/ty
+pe1/vntex/vnr/vnr12.pfb>
+Output written on MAIN.pdf (1 page, 270207 bytes).
 PDF statistics:
- 224 PDF objects out of 1000 (max. 8388607)
- 143 compressed objects within 2 object streams
- 33 named destinations out of 1000 (max. 500000)
- 222 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 137 PDF objects out of 1000 (max. 8388607)
+ 79 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 500000)
+ 178 words of extra memory for PDF output out of 10000 (max. 10000000)
 
