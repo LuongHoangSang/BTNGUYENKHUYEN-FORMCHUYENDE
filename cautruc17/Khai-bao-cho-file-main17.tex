@@ -45,6 +45,7 @@
 \usepackage{hyperref}
 \usepackage[version=3]{mhchem}
 \usepackage[locale=DE]{siunitx} % cách viết số đo có đơn vị theo chuẩn DE (gần giống VN) 
+\usepackage[table, dvipsnames]{xcolor}
 %--------------Gói trắc nghiệm EX-TEST
 \usepackage[loigiai]{ex_test} 
 %\usepackage[solcolor]{ex_test}
@@ -430,7 +431,7 @@ colbacktitle=\nensodang,
 coltitle=white,
 colframe=\maudang,
 colback=\nendang,
-opacityback=0.5,
+opacityback=0,
 sharp corners,
 before skip=3mm,after skip=3mm,
 left=2mm,right=2mm,top=2mm,bottom=2mm,
@@ -895,7 +896,7 @@ borderline west={1mm}{0mm}{\maudl!30}
 [enhanced jigsaw,breakable,pad at break*=1mm,
 %		drop fuzzy shadow=orange,
 colback=\maudn!10,boxrule=0pt,frame hidden, 
-opacityback=0.5,
+opacityback=0.3,
 left=3mm, right=0pt, bottom=2pt, top=2pt,
 before skip=2mm,
 after skip=2mm,arc=0pt,
@@ -934,10 +935,10 @@ borderline west={1mm}{0cm}{\mauhq!50}
 \stepcounter{mytc}\noindent\khungMT{\mauhq!70!black}{\iconVD Tính chất}%
 }{}
 \renewenvironment{myhq}{
-\stepcounter{myhq}\noindent\khungMT{\mauhq!70!black}{\iconVD Hệ quả \themyhq}%
+\stepcounter{myhq}\noindent\khungMT{\mauhq!70!black}{\iconVD Định lý}%
 }{}
 \renewenvironment{mynx}{
-\stepcounter{mynx}\noindent\khungMT{\mauhq!70!black}{\iconVD Nhận xét \themynx}%
+\stepcounter{mynx}\noindent\khungMT{\mauhq!70!black}{\iconVD Nhận xét }%
 }{}
 %---
 \newenvironment{dn}{\begin{boxdn}\begin{mydn}}{\end{mydn}\end{boxdn}}
